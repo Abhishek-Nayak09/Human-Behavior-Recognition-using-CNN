@@ -1,5 +1,5 @@
-
+streamlit
 numpy==1.21.1
 opencv-python-headless==4.5.3.56
 tensorflow==2.5.0
-h5py==3.3.0  
+
