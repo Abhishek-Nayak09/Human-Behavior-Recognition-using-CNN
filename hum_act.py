@@ -1,9 +1,9 @@
 import streamlit as st
-import cv2
 import numpy as np
 import base64
 from tensorflow.keras.models import load_model
 import random
+import cv2
 model2 = load_model("face_action.h5")
 
 def preprocess_image(image):
